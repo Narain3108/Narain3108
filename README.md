@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Narain Karthikeyan</h1>
-<h3 align="center">💻 CSE Undergrad | 💡 Problem Solver | 🌐 Full-Stack Developer | 📱 App Builder | 🤖 AI Explorer | Linux Enthusastic</h3>
+<h3 align="center">💻  Software Developer |CSE Undergrad | 💡 Problem Solver | 🌐 Full-Stack Developer | 📱 App Builder | 🤖 AI Explorer | Linux Enthusastic</h3>
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=narain3108&label=Profile%20views&color=0e75b6&style=flat" alt="Profile views" />
@@ -62,7 +62,7 @@
 - **🧠 AI Reminder & Notification System** – WebSocket + Google Form Notifier + Firebase
 - **🖥️ Linux App Usage Tracker** – Rust-based background tracker + PyQt5 frontend
 - **  Driver behaviour analysis** - AI Based application complete monitoring of Public transport and cab drivers safety and public safety, and maintiang a complete Database on Drivers performances
-- ** FlipRollRock**- A game app for random events like Toss, Odd or Even
+- ** FlipRollPick**- A game app for random events like Toss, Odd or Even
 
 
 
@@ -86,18 +86,10 @@
 
 ---
 
-### 📊 GitHub Stats (Live)
-
-<p>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=narain3108&layout=compact&theme=radical" alt="Top languages" />
-</p>
-
----
-
 ### 🌐 Let's Connect
 
 <p>
-  <a href="mailto:narain@example.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+  <a href="mailto:narainkarthik007@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
   <a href="https://www.linkedin.com/in/narainkarthikeyan/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
   <a href="https://leetcode.com/naraink007"><img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" /></a>
   <a href="https://www.codechef.com/users/naraink007"><img src="https://img.shields.io/badge/CodeChef-5B4638?style=for-the-badge&logo=codechef&logoColor=white" /></a>
